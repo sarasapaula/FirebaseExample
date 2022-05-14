@@ -4,7 +4,7 @@ Template starter with React Navigation and Firebase auth using React Context
 
 # Preview
 
-![../media/authflow.png](../media/authflow.png)
+![](https://github.com/sarasapaula/NestedNavigation/blob/main/nestedNavigation.jpg)
 
 # Installation
 
