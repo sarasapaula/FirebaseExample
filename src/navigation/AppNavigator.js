@@ -17,12 +17,12 @@ import Loading from "../screens/utils/Loading";
 
 // Better put your these secret keys in .env file
 const firebaseConfig = {
-    apiKey: "AIzaSyAB-cIYoXDEK6B3GFW1vgWz84i8C_m4POw",
-    authDomain: "prueba-app-movil-1374d.firebaseapp.com",
-    projectId: "prueba-app-movil-1374d",
-    storageBucket: "prueba-app-movil-1374d.appspot.com",
-    messagingSenderId: "1093027613971",
-    appId: "1:1093027613971:web:780551efbb1d7767db5ee6"
+    apiKey: "",
+    authDomain: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
 };
 if (getApps().length === 0) {
   initializeApp(firebaseConfig);
